@@ -1,5 +1,6 @@
 {
   "name": "julianjohannesen",
+  "private": true,
   "version": "1.0.0",
   "description": "Fullstack web developer, based in Boston, MA.",
   "main": "index.js",
