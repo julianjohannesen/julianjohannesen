@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Julian Johannesen</h1>
+<h1>Julian Johannesen</h1>
 
 
 <p>Welcome! </br> My name is Julian Johannesen and I'm a frontend developer based in Boston, MA. </p>
@@ -69,6 +69,6 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, 29 October, 17:03 CEST<br /></p>
+
 
 
