@@ -4,7 +4,7 @@
 <p>Welcome! </br> My name is Julian Johannesen and I'm a frontend developer based in Boston, MA. </p>
 <h3>Tools</h3>
 <p>
-  <!-- Add sqlite, express, eslint, javascript -->
+  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -18,6 +18,13 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-45b8d8?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-044a64?style=flat-square&logo=SQLite&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-117cad?style=flat-square&logo=Yarn&logoColor=white" />
+  <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-542c85?style=flat-square&logo=Gatsby&logoColor=white" />
+  <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-fc0?style=flat-square&logo=Jekyll&logoColor=white" />
 </p>
 <!-- <h3>Open source projects</h3>
 <table>
