@@ -3,7 +3,7 @@
 <header>
 <h1>Julian Johannesen</h1>
 <p>Welcome! </br> My name is Julian Johannesen and I'm a frontend developer based in Boston, MA. </p>
-<img align="right" width="400px" src="./octo-jj.png">
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/252081/139713296-fd8b6775-0b5d-42c2-9656-7397ee50d470.png">
 </header>
 
 <main>
