@@ -2,9 +2,10 @@
 
 
 <p>Welcome! </br> My name is Julian Johannesen and I'm a frontend developer based in Boston, MA. </p>
+
+<section>
 <h3>Tools</h3>
 <p>
-  
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -26,40 +27,21 @@
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-542c85?style=flat-square&logo=Gatsby&logoColor=white" />
   <img alt="Jekyll" src="https://img.shields.io/badge/-Jekyll-fc0?style=flat-square&logo=Jekyll&logoColor=white" />
 </p>
-<!-- <h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-	  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    
-  </tbody>
-</table>
+</section>
+
+<!--
+<section>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-
-</ul> -->
+  <li>
+    <a href="https://medium.com/blahblahblah">
+      <b><img src="thumbnail.png" width="20" alt="new" />Blah blah blah</b>
+    </a>
+    <br/>
+    <i>A matter of taste, sure, but here is an approach that scales.</i>
+  </li>
+</ul>
+-->
 
 <h3>Where to find me</h3>
 <p>
