@@ -1,7 +1,9 @@
+<article>
 <h1>Julian Johannesen</h1>
 
-
+<main>
 <p>Welcome! </br> My name is Julian Johannesen and I'm a frontend developer based in Boston, MA. </p>
+<img align="right" width="400px" src="./octo-jj.png">
 
 <section>
 <h3>Tools</h3>
@@ -41,8 +43,9 @@
     <i>A matter of taste, sure, but here is an approach that scales.</i>
   </li>
 </ul>
+</section>
 -->
-
+<section>
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/julianjohannesen" target="_blank">
@@ -56,8 +59,9 @@
     <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
-
-------------
+</section>
+</main>
+</article>
 
 
 
