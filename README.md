@@ -77,20 +77,6 @@
       </ul>
     </section>
 
-    <!--
-<section>
-<h3>My latest posts</h3>
-<ul>
-  <li>
-    <a href="https://medium.com/blahblahblah">
-      <b><img src="thumbnail.png" width="20" alt="new" />Blah blah blah</b>
-    </a>
-    <br/>
-    <i>Blah blah blah comment blah blah.</i>
-  </li>
-</ul>
-</section>
--->
     <section>
       <h3>Where to find me</h3>
       <p>
